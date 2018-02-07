@@ -1,0 +1,48 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"ASCII Decorator",
+		"Better Completion",
+		"Better JavaScript",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"Colorsublime",
+		"Dockerfile Syntax Highlighting",
+		"DoxyDoxygen",
+		"EJS",
+		"ExpandRegion",
+		"FileDiffs",
+		"Fold Comments",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"Inc-Dec-Value",
+		"Javascript Beautify",
+		"JavaScript Completions",
+		"JavaScript Snippets",
+		"jQuery",
+		"jQuery Snippets for Coffeescript",
+		"jQuery Snippets pack",
+		"JsFormat",
+		"JSHint",
+		"JSLint",
+		"Language - French - Français",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Nodejs",
+		"Package Control",
+		"PackageResourceViewer",
+		"SublimeCodeIntel",
+		"SummitLinter",
+		"Theme - Afterglow",
+		"TrailingSpaces"
+	]
+}
