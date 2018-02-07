@@ -1,0 +1,45 @@
+"*":
+  "atom-material-ui":
+    colors:
+      abaseColor: "#b06704"
+  "autocomplete-python":
+    useKite: false
+  core:
+    disabledPackages: [
+      "welcome"
+      "linter-python"
+      "linter"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "atom-material-ui"
+      "monokai"
+    ]
+  docblockr:
+    auto_add_method_tag: true
+    deep_indent: true
+  editor:
+    fontSize: 19
+    showIndentGuide: true
+    showInvisibles: true
+    softTabs: false
+    tabLength: 4
+    tabType: "hard"
+  "exception-reporting":
+    userId: "e0b3467a-23f4-4dee-b4d1-7ec5a54e91ca"
+  jslint:
+    validateOnChange: true
+  "linter-python": {}
+  "linter-ui-default": {}
+  minimap:
+    plugins:
+      cursorline: true
+      cursorlineDecorationsZIndex: 0
+      "find-and-replace": true
+      "find-and-replaceDecorationsZIndex": 0
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+      pigments: true
+      pigmentsDecorationsZIndex: 0
+  welcome:
+    showOnStartup: false
